@@ -1,0 +1,12 @@
+Name = f
+Surname = f
+Number = @gmail.com
+Email = 998770079639
+Address = f
+Jami summa = 0
+Name = q
+Surname = q
+Number = @gmail.com
+Email = 998770079639
+Address = d
+Jami summa = 0

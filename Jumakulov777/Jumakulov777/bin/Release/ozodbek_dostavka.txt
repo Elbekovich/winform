@@ -1,0 +1,7 @@
+Name = Ozodbek
+Surname = Sign in
+EMail = jumaqulov@gmail.com
+NUmber = 998770079639
+Address = jumaqulov@gmail.com
+Koftening narxi = 510
+Jami summa = 510

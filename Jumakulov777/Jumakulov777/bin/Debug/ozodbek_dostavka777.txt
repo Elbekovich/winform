@@ -1,0 +1,66 @@
+Name = Ozodbek
+Surname = Jumaqulov
+EMail = jumaqulovozodbek85@gmail.com
+NUmber = 998770079639
+Address = Toshkent shahar
+Koftening narxi = 510
+Pide narxi = 520
+Simit narxi = 550
+Dolma narxi = 1200
+Buyurtma raqami = 1687
+Jami summa = 2780
+--------------------------------------------------------------
+Name = Ozodbek
+Surname = Jumaqulov
+EMail = jumaqulovozodbek009@gmail.com
+NUmber = 998770079889
+Address = Navoiy viloyati . 
+Börek narxi = 540
+Buyurtma raqami = 8172
+Jami summa = 3320
+--------------------------------------------------------------
+Name = 213
+Surname = sadads
+EMail = asd@gmail.com
+NUmber = 998707000702
+Address = as
+Börek narxi = 2835
+Buyurtma raqami = 5120
+Jami summa = 2835
+--------------------------------------------------------------
+Name = ozodbek
+Surname = jumaqulof
+EMail = @gmail.com
+NUmber = 998770040203
+Address = f
+Koftening narxi = 3570
+Buyurtma raqami = 7852
+Jami summa = 3570
+--------------------------------------------------------------
+Name = Ozodbek
+Surname = Jumaqulov
+EMail = jumaqulov@gmail.com
+NUmber = 998770077777
+Address = d
+Koftening narxi = 340
+Buyurtma raqami = 9095
+Jami summa = 340
+--------------------------------------------------------------
+Name = wer
+Surname = we
+EMail = jumakulov@gmail.com
+NUmber = 998770079639
+Address = Toshkent shahar
+Koftening narxi = 510
+Buyurtma raqami = 3587
+Jami summa = 510
+--------------------------------------------------------------
+Name = Ozodbek
+Surname = Jumaqulov
+EMail = @gmail.com
+NUmber = 998770079339
+Address = Chilonzor 23 kvartal
+Koftening narxi = 340
+Buyurtma raqami = 3468
+Jami summa = 340
+--------------------------------------------------------------
